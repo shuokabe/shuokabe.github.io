@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Shu Okabe"
 title_separator          : "-"
 name                     : &name "Shu Okabe"
-description              : &description "PhD student @ Université Paris-Saclay, CNRS, LISN"
+description              : &description "Postdoctoral researcher @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
 url                      : https://shuokabe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuokabe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shu Okabe"
   avatar           : "profile.png"
-  bio              : "PhD student @ Université Paris-Saclay, CNRS, LISN"
+  bio              : "Postdoctoral researcher @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
   location         : "Paris, France"
   employer         :
   pubmed           :

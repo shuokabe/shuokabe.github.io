@@ -15,15 +15,6 @@ I am a postdoctoral researcher working with [Alexander Fraser](https://alexfrase
 Previously, I was a PhD student at Université Paris-Saclay (LISN/CNRS laboratory, formerly known as LIMSI) under the supervision of [François Yvon](https://fyvo.github.io/).
 My thesis topic is Computational Language Documentation.
 
-
-Education
-------
-* 2020-2023: PhD in Computer Science, Université Paris-Saclay, CNRS, LISN (France).
-* 2018-2019: MSc in Computing (Machine Learning), Imperial College London (United Kingdom).
-* 2016-2019: Engineering Degree, ENSAE Paris (France).
-
-Detailed CV on request.
-
 Experience
 ------
 * 2024: Lectures half of the Discrete Probability Theory (bachelor's level) at TUM Heilbronn.

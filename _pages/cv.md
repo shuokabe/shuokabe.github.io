@@ -13,9 +13,9 @@ Short CV; detailed version on request.
 
 Education
 ======
-* 2019: Engineering Degree, ENSAE Paris.
-* 2019: MSc in Computing (Machine Learning), Imperial College London.
-* 2023: PhD in Computer Science, Université Paris-Saclay, CNRS, LISN (expected).
+* 2020-2023: PhD in Computer Science, Université Paris-Saclay, CNRS, LISN (France).
+* 2018-2019: MSc in Computing (Machine Learning), Imperial College London (United Kingdom).
+* 2016-2019: Engineering Degree, ENSAE Paris (France).
 
 <!-- Work experience
 ======
