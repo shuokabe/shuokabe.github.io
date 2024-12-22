@@ -12,10 +12,21 @@ redirect_from:
 Short CV; detailed version on request.
 
 Education
-======
+------
 * 2020-2023: PhD in Computer Science, Université Paris-Saclay, CNRS, LISN (France).
 * 2018-2019: MSc in Computing (Machine Learning), Imperial College London (United Kingdom).
 * 2016-2019: Engineering Degree, ENSAE Paris (France).
+
+Work experience
+------
+* 2024-: Postdoctoral researcher, TUM Heilbronn (Germany).
+
+
+Teaching and reviewing experience
+------
+* 2024: Lectures half of the Discrete Probability Theory (bachelor's level) at TUM Heilbronn.
+* 2020-2023: Teaching Assistant at IUT d'Orsay (60+ hours each year).
+* Reviews for ARR (2024), EACL (2023, 2024), NLP4DH & IWCLUL workshop (2023).
 
 <!-- Work experience
 ======

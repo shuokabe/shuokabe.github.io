@@ -11,15 +11,17 @@ redirect_from:
 About me
 ====== 
 
-I am a postdoctoral researcher working with [Alexander Fraser](https://alexfraser.github.io/) at TUM Campus Heilbronn.
+I am a postdoctoral researcher in Natural Language Processing working with [Alexander Fraser](https://alexfraser.github.io/) at TUM Campus Heilbronn.
+My work focuses on models and tools for low-resource languages.
 Previously, I was a PhD student at Université Paris-Saclay (LISN/CNRS laboratory, formerly known as LIMSI) under the supervision of [François Yvon](https://fyvo.github.io/).
-My thesis topic is Computational Language Documentation.
+My thesis topic was Computational Language Documentation.
 
-Experience
+In English, my name is pronounced /ʃuː əʊ'kɑːbeɪ/, in French, /ʃu ɔkabe/, and in Japanese, /okabe ɕɨː/ (order reversed).
+
+News
 ------
-* 2024: Lectures half of the Discrete Probability Theory (bachelor's level) at TUM Heilbronn.
-* 2020-2023: Teaching Assistant at IUT d'Orsay (60+ hours each year).
-* Reviews for ARR (2024), EACL (2023, 2024), NLP4DH & IWCLUL workshop (2023).
+* May 2024: Started as postdoctoral researcher at TUM Heilbronn in Alexander Fraser's team.
+* 19 December 2024: Defended my [PhD thesis](https://theses.hal.science/tel-04453579) (in French).
 
 Contact
 ------
