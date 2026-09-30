@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "NLP for endangered and underrepresented languages"
-excerpt: "About me"
+title: "About me"
+excerpt: "NLP for endangered and underrepresented languages"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ My thesis topic was Computational Language Documentation.
 
 My research interests revolve around building models and tools for endangered and underrepresented languages by leveraging available resources.
 
-Keywords: computational language documentation, word and morpheme segmentation, interlinear glossing, parallel sentence mining, multilingual representation, machine translation, NLP for endangered languages, low-resource NLP.
+Research topic keywords: computational language documentation, word and morpheme segmentation, interlinear glossing, parallel sentence mining, multilingual representation, machine translation, NLP for endangered languages, low-resource NLP.
 
 Milestones
 ------
@@ -29,7 +29,7 @@ Milestones
 
 News
 ------
-More regular updates on [Bluesky](https://bsky.app/profile/shuokabe.eurosky.social).
+More regular updates on [Bluesky](https://bsky.app/profile/shuokabe.eurosky.social) (from September 2026).
 
 * 15 September 2026: Presented [Low-Resource Morphological Inflection for Kashubian](https://www.korpuslab.uni-hamburg.de/en/konvens2026/15.pdf) at KONVENS 2026 in Hamburg, Germany.
 * 2 July 2026: Presented [Vers une fouille de phrases parallèles pour les langues régionales de France métropolitaine](https://talnarchives.atala.org/TALN/TALN-2026/84.pdf) (in French; *Towards the Parallel Sentence Mining for Regional Languages of Metropolitan France*) at TALN 2026 in Nantes, France. 

@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shu Okabe"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
+  bio              : "Postdoctoral researcher in NLP @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
   location         : "Paris, France"
   employer         : # "TUM Heilbronn"
   uri              : # URL
@@ -129,7 +129,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : google0ded9cf6e476b09d.html
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :

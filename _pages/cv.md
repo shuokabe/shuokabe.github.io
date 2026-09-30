@@ -23,7 +23,7 @@ Education
 
 Teaching experience
 ------
-* 2026–: Sole responsible for the master level seminar in Natural Language Processing for Low-Resource Languages (summer semester). 
+* 2026–: Sole responsible for the master-level seminar in Natural Language Processing for Low-Resource Languages (summer semester). 
 * 2024–: Responsible for lectures and exercises for the following courses at TUM Heilbronn:
   - half of the Discrete Probability Theory course (bachelor's level; summer semester).
   - half of the Machine Learning course (master's level; winter semester).
@@ -50,8 +50,9 @@ Other activities
 ------
 ### Reviewing
 * Reviewer for conferences: 
-  - ARR (2024, 2025, 2026), ACL (via ARR), EACL (2023, 2024), EMNLP (via ARR).
+  - ARR (2024, 2025, 2026), ACL (via ARR), EACL (2023, 2024; via ARR), EMNLP (via ARR).
   - LREC (2026).
+  - TALN (2026), KONVENS (2026).
 * Reviewer for workshops: 
   - ComputEL (2025), Field Matters (2025, 2026). 
   - NLP4DH (2025, 2026), NLP4DH & IWCLUL (2023), NLP for Positive Impact (2025, 2026).

@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /presentations
 ---
+Invited and organised presentations:
 
 * 16 May 2026: [Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies](https://tum-nlp.github.io/low-resource-tutorial/) tutorial at LREC 2026 in Palma, Spain [in English].
 * 16 April 2026: [NLP Models for Field Linguistic Annotations in Computational Language Documentation](https://gdr-lift.loria.fr/wp-content/uploads/2026/04/Okabe-ILFC_seminar.pdf) at the online ILFC seminar [in English].
