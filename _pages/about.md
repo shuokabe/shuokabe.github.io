@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About me
-====== 
+NLP for endangered and underrepresented languages
+------
 
 I am a postdoctoral researcher in Natural Language Processing working with [Alexander Fraser](https://alexfraser.github.io/) at the Technische Universität München (TUM) Campus Heilbronn.
 My work focuses on parallel sentence mining for low-resource languages.  

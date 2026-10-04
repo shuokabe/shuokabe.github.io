@@ -13,30 +13,34 @@ Short CV; detailed version on request.
 
 Work experience
 ------
+
 * 2024–: Postdoctoral researcher, TUM Heilbronn (Germany).
 
 Education
 ------
+
 * 2020–2023: PhD in Computer Science, Université Paris-Saclay, CNRS, LISN (France).
 * 2018–2019: MSc in Computing (Machine Learning), Imperial College London (United Kingdom).
 * 2016–2019: Engineering Degree, ENSAE Paris (France).
 
 Teaching experience
 ------
-* 2026–: Sole responsible for the master-level seminar in Natural Language Processing for Low-Resource Languages (summer semester). 
+
+* 2026–: Sole instructor for the master-level seminar in Natural Language Processing for Low-Resource Languages (summer semester). 
 * 2024–: Responsible for lectures and exercises for the following courses at TUM Heilbronn:
   - half of the Discrete Probability Theory course (bachelor's level; summer semester).
   - half of the Machine Learning course (master's level; winter semester).
 * 2020–2023: Teaching Assistant at IUT d'Orsay (60+ hours per year).
 
-Supervision experience
+Supervision and advising experience
 ------
+
 ### Group projects
 * 2026–: Supervision of master's (group) projects at TUM.
 * 2024–: Supervision of bachelor's (group) projects at TUM.
 
 ### Bachelor's and master's theses
-* 2025-: Supervision of bachelor's and master's theses at TUM
+* 2025–: Supervision of bachelor's and master's theses at TUM:
   - Summer semester 2025: 4 bachelor's and 2 master's theses.
   - Winter semester 2025/2026: 6 bachelor's and 2 master's theses. 
 
@@ -48,6 +52,7 @@ Thesis topics: interlinear glossing; low-resource parallel sentence mining, matc
 
 Other activities
 ------
+
 ### Reviewing
 * Reviewer for conferences: 
   - ARR (2024, 2025, 2026), ACL (via ARR), EACL (2023, 2024; via ARR), EMNLP (via ARR).
@@ -55,7 +60,7 @@ Other activities
   - TALN (2026), KONVENS (2026).
 * Reviewer for workshops: 
   - ComputEL (2025), Field Matters (2025, 2026). 
-  - NLP4DH (2025, 2026), NLP4DH & IWCLUL (2023), NLP for Positive Impact (2025, 2026).
+  - NLP4DH (2025, 2026), NLP4DH & IWCLUL (2023), NLP for Positive Impact (2025, 2026), MLR (2026).
   - SRW (Student Research Workshop; 2026 EACL & ACL).
 
 ### Organisation and presentation

@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 My name is pronounced as follows:
-- in English, /ʃuː əʊ'kɑːbeɪ/
+- in English, /ʃuː əʊˈkɑːbeɪ/
 - in French, /ʃu ɔkabe/
 - in Japanese, /okabe ɕɨː/ (order reversed).
