@@ -7,10 +7,14 @@ author_profile: true
 You may find complete information on my [Semantic Scholar](https://www.semanticscholar.org/author/Shu-Okabe/11712793), [ACL Anthology](https://aclanthology.org/people/shu-okabe/), or [HAL](https://hal.science/search/index/q/*/authIdHal_s/shu-okabe) pages.
 
 
-### PhD thesis (in French)
+PhD thesis (in French)
+------
 **Shu Okabe**. [Modèles faiblement supervisés pour la documentation automatique des langues](https://theses.hal.science/tel-04453579) (*Weakly Supervised Models for Computational Language Documentation* in English). Informatique et langage \[cs.CL\]. Université Paris-Saclay, 2023.
 
-### Articles
+Articles
+------
+- **Shu Okabe**, Marion Di Marco, Kathy Haemmerl, Daryna Dementieva, Lukas Edman, Marko Měškank, Anita Hendrichowa, and Alexander Fraser. 2026. [Findings of the WMT 2026 Shared Task: Multitask LLMs with Limited Resources](https://aclanthology.org/2026.wmt-main.59/). In *Proceedings of the Eleventh Conference on Machine Translation*, pages 1180–1202, Budapest, Hungary. Association for Computational Linguistics.
+- Niklas Hettich, **Shu Okabe**, and Alexander Fraser. 2026. [SNAPP: Segment-Level Neural Alignment Post-Processing for Low-Resource Parallel Sentence Mining](https://aclanthology.org/2026.wmt-main.14/). In *Proceedings of the Eleventh Conference on Machine Translation*, pages 239–253, Budapest, Hungary. Association for Computational Linguistics.
 - Sebastian Reichbauer, **Shu Okabe**, and Alexander Fraser. 2026. [Evaluating Latin and Ancient Greek Sentence Alignment through Parallel Sentence Mining](https://aclanthology.org/2026.nlp4dh-1.11/). In *Proceedings of the 6th International Conference on Natural Language Processing for the Digital Humanities*, pages 106–120, San Diego, USA. Association for Computational Linguistics.
 - Volkan Özer, **Shu Okabe**, and Alexander Fraser. 2026. [Interlinear Glosses as a Multilingual Pivot for Machine Translation: An Updated Study on Turkish with Restricted Resources](https://lrec.elra.info/lrec2026-ws-sigul-19). In *Proceedings of the SIGUL 2026 Joint Workshop with ELE, EURALI, and DCLRL: Towards Inclusivity and Equality: Language Resources and Technologies for Under-Resourced and Endangered Languages*, pages 183–197, Palma, Mallorca, Spain. ELRA Language Resources Association (ELRA).
 - Ruiyang Jiang, **Shu Okabe**, and Alexander Fraser. 2026. [Parallel Sentence Filtering for Low-Resource Language Pairs: A Case Study for Upper Sorbian, German, and Czech](https://lrec.elra.info/lrec2026-main-699). In *Proceedings of the Fifteenth Language Resources and Evaluation Conference*, pages 8883–8896, Palma de Mallorca, Spain. ELRA Language Resource Association.

@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Shu Okabe"
 title_separator          : "-"
 name                     : &name "Shu Okabe"
-description              : &description "Postdoctoral researcher @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
+description              : &description "Assistant Professor in NLP @ CentraleSupélec" #"Postdoctoral researcher @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
 url                      : https://shuokabe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuokabe.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shu Okabe"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher in NLP @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
+  bio              : 'Maître de conférences (Assistant Professor) in NLP @ CentraleSupélec' #"Postdoctoral researcher in NLP @ TUM Heilbronn" #"PhD student @ Université Paris-Saclay, CNRS, LISN"
   location         : "Paris, France"
   employer         : # "TUM Heilbronn"
   uri              : # URL

@@ -7,14 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Short CV; detailed version on request.
 
 Work experience
 ------
 
-* 2024–: Postdoctoral researcher, TUM Heilbronn (Germany).
+* 2026–: *Maître de conférences*, CentraleSupélec, Université Paris-Saclay (France).
+* 2024–2026: Postdoctoral researcher, TUM Heilbronn (Germany).
 
 Education
 ------
@@ -26,8 +25,8 @@ Education
 Teaching experience
 ------
 
-* 2026–: Sole instructor for the master-level seminar in Natural Language Processing for Low-Resource Languages (summer semester). 
-* 2024–: Responsible for lectures and exercises for the following courses at TUM Heilbronn:
+* 2026: Sole instructor for the master-level seminar in Natural Language Processing for Low-Resource Languages (summer semester) at TUM Heilbronn. 
+* 2024–2026: Responsible for lectures and exercises for the following courses at TUM Heilbronn:
   - half of the Discrete Probability Theory course (bachelor's level; summer semester).
   - half of the Machine Learning course (master's level; winter semester).
 * 2020–2023: Teaching Assistant at IUT d'Orsay (60+ hours per year).
@@ -36,13 +35,14 @@ Supervision and advising experience
 ------
 
 ### Group projects
-* 2026–: Supervision of master's (group) projects at TUM.
-* 2024–: Supervision of bachelor's (group) projects at TUM.
+* 2026: Supervision of master's (group) projects at TUM.
+* 2024–2026: Supervision of bachelor's (group) projects at TUM.
 
 ### Bachelor's and master's theses
-* 2025–: Supervision of bachelor's and master's theses at TUM:
+* 2025–2026: Supervision of bachelor's and master's theses at TUM:
   - Summer semester 2025: 4 bachelor's and 2 master's theses.
   - Winter semester 2025/2026: 6 bachelor's and 2 master's theses. 
+  - Summer semester 2026: 1 bachelor's and 4 master's theses. 
 
 Thesis topics: interlinear glossing; low-resource parallel sentence mining, matching, and filtering; morphological analysis; optical character recognition; automatic speech recognition; machine translation. 
 
@@ -69,13 +69,16 @@ Other activities
 * Co-organiser of the [WMT 2025 Shared Task on LLMs with Limited Resources for Slavic Languages](https://www2.statmt.org/wmt25/limited-resources-slavic-llm.html).
 
 #### Workshop
-* Co-organiser of the [Field Matters workshop](https://field-matters.github.io/) (2026).
+* Co-organiser of the [Field Matters workshop](https://field-matters.github.io/) (2026, 2027).
+* Co-organiser of the [LInDA workshop](https://linda-workshop.github.io/) (2027: 1st edition).
 
 #### Tutorial
 * Presenter in the LREC 2026 tutorial '[Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies](https://tum-nlp.github.io/low-resource-tutorial/)'.
 
 
 <!-- Work experience
+
+{% include base_path %}
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -95,24 +98,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
